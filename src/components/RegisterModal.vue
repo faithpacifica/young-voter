@@ -395,6 +395,7 @@ export default {
 
 .el-scrollbar__wrap {
   border-radius: 12px;
+  overflow: none;
 }
 
 .el-select__popper.el-popper[role="tooltip"] {
